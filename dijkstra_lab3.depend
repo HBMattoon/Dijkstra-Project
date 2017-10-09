@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1480551312 source:c:\users\henro_000\desktop\c_code_stuff\dijkstra_lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+
